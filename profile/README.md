@@ -4,11 +4,11 @@
     <strong>AI companions, roleplay characters, and interactive story worlds that remember your journey.</strong>
   </p>
   <p>
-    <a href="https://alphane.ai/en?utm_source=github&utm_medium=org_profile&utm_campaign=readme_hero"><strong>Start on Alphane</strong></a>
+    <a href="https://alphane.ai/?utm_source=github&utm_medium=org_profile&utm_campaign=readme_hero"><strong>Start on Alphane</strong></a>
     ·
-    <a href="https://alphane.ai/en/characters?utm_source=github&utm_medium=org_profile&utm_campaign=readme_characters">Browse Characters</a>
+    <a href="https://alphane.ai/characters?utm_source=github&utm_medium=org_profile&utm_campaign=readme_characters">Browse Characters</a>
     ·
-    <a href="https://alphane.ai/en/stories?utm_source=github&utm_medium=org_profile&utm_campaign=readme_stories">Explore Stories</a>
+    <a href="https://alphane.ai/stories?utm_source=github&utm_medium=org_profile&utm_campaign=readme_stories">Explore Stories</a>
   </p>
   <p>
     English · <a href="./README.zh-CN.md">简体中文</a>
@@ -21,7 +21,7 @@ Alphane AI is a place to meet AI companions, discover roleplay characters, and e
 
 If you are looking for characters that feel less disposable, stories that can continue after one chat, or creator worlds with memory and narrative continuity, start here:
 
-**Visit Alphane AI:** https://alphane.ai/en?utm_source=github&utm_medium=org_profile&utm_campaign=readme_main
+**Visit Alphane AI:** https://alphane.ai/?utm_source=github&utm_medium=org_profile&utm_campaign=readme_main
 
 ## What You Can Explore
 
@@ -46,9 +46,9 @@ Public repositories will appear here as we publish tooling, SDKs, examples, expe
 
 ## Connect
 
-- Product: https://alphane.ai/en?utm_source=github&utm_medium=org_profile&utm_campaign=readme_connect
-- Characters: https://alphane.ai/en/characters?utm_source=github&utm_medium=org_profile&utm_campaign=readme_connect
-- Stories: https://alphane.ai/en/stories?utm_source=github&utm_medium=org_profile&utm_campaign=readme_connect
+- Product: https://alphane.ai/?utm_source=github&utm_medium=org_profile&utm_campaign=readme_connect
+- Characters: https://alphane.ai/characters?utm_source=github&utm_medium=org_profile&utm_campaign=readme_connect
+- Stories: https://alphane.ai/stories?utm_source=github&utm_medium=org_profile&utm_campaign=readme_connect
 - Reddit: https://www.reddit.com/r/AlphaneAI/
 - X: https://x.com/alphane_ai
 - Discord: https://discord.com/invite/HnDQkYmxcu
