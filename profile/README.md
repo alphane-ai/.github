@@ -1,42 +1,39 @@
 <div align="center">
   <h1>Alphane AI</h1>
   <p>
-    <strong>AI companions, roleplay characters, and interactive story worlds with long-term memory.</strong>
+    <strong>AI companions, roleplay characters, and interactive story worlds that remember your journey.</strong>
   </p>
   <p>
-    <a href="https://alphane.ai/en">Website</a>
+    <a href="https://alphane.ai/en?utm_source=github&utm_medium=org_profile&utm_campaign=readme_hero"><strong>Start on Alphane</strong></a>
     ·
-    <a href="https://www.reddit.com/r/AlphaneAI/">Reddit</a>
+    <a href="https://alphane.ai/en/characters?utm_source=github&utm_medium=org_profile&utm_campaign=readme_characters">Browse Characters</a>
     ·
-    <a href="https://x.com/alphane_ai">X</a>
-    ·
-    <a href="https://discord.com/invite/HnDQkYmxcu">Discord</a>
-    ·
-    <a href="mailto:services@alphane.ai">Email</a>
+    <a href="https://alphane.ai/en/stories?utm_source=github&utm_medium=org_profile&utm_campaign=readme_stories">Explore Stories</a>
   </p>
   <p>
     English · <a href="./README.zh-CN.md">简体中文</a>
   </p>
 </div>
 
-## What We Are Building
+## Step Into Alphane
 
-Alphane AI is a companion and roleplay platform for people who want AI characters, stories, and creator worlds that feel continuous over time.
+Alphane AI is a place to meet AI companions, discover roleplay characters, and enter interactive story worlds that can carry context across sessions.
 
-Instead of treating every session as disposable, Alphane is built around persistent context: characters can remember meaningful details, stories can unfold across multiple interactions, and creator worlds can connect characters, settings, profiles, and narrative assets into a coherent experience.
+If you are looking for characters that feel less disposable, stories that can continue after one chat, or creator worlds with memory and narrative continuity, start here:
 
-## Product Focus
+**Visit Alphane AI:** https://alphane.ai/en?utm_source=github&utm_medium=org_profile&utm_campaign=readme_main
 
-- **AI companions**: emotionally aware characters designed for long-running conversations.
-- **Roleplay characters**: public character pages with clear context before a chat begins.
-- **Interactive stories**: story experiences with tone, setting, progression, and stakes.
-- **Memory continuity**: Memory Capsules that preserve important context across sessions.
-- **Creator worlds**: profiles, characters, stories, and collections that reinforce one another.
-- **Multilingual discovery**: product surfaces designed for global audiences and multiple writing cultures.
+## What You Can Explore
 
-## Engineering Interests
+- **AI companions** for long-running conversations, emotional continuity, and recurring interactions.
+- **Roleplay characters** with public profiles, backstories, tones, and clear context before the chat begins.
+- **Interactive stories** built around atmosphere, setting, progression, and stakes.
+- **Memory continuity** through Memory Capsules that preserve important details across sessions.
+- **Creator worlds** where profiles, characters, stories, and collections reinforce one another.
 
-We care about the systems behind durable AI experiences:
+## For Creators and Builders
+
+Alphane is built for people who care about richer AI characters and more coherent story experiences. Behind the product, we work on:
 
 - Long-term conversation memory and retrieval
 - Character state, relationship state, and narrative continuity
@@ -44,19 +41,14 @@ We care about the systems behind durable AI experiences:
 - Search, ranking, recommendation, and public discovery
 - Multilingual product surfaces and localization
 - Trust, safety, boundaries, and healthy AI companion design
-- Scalable chat, media, and interactive story infrastructure
-
-## Open Source
 
 Public repositories will appear here as we publish tooling, SDKs, examples, experiments, and infrastructure notes related to Alphane AI.
 
-Our long-term goal is to make it easier for developers and creators to build richer characters, more durable story worlds, and more coherent AI companion experiences.
-
 ## Connect
 
-If you are building in AI roleplay, AI companions, creator tools, memory systems, localization, or interactive storytelling, we would like to hear from you.
-
-- Website: https://alphane.ai/en
+- Product: https://alphane.ai/en?utm_source=github&utm_medium=org_profile&utm_campaign=readme_connect
+- Characters: https://alphane.ai/en/characters?utm_source=github&utm_medium=org_profile&utm_campaign=readme_connect
+- Stories: https://alphane.ai/en/stories?utm_source=github&utm_medium=org_profile&utm_campaign=readme_connect
 - Reddit: https://www.reddit.com/r/AlphaneAI/
 - X: https://x.com/alphane_ai
 - Discord: https://discord.com/invite/HnDQkYmxcu
